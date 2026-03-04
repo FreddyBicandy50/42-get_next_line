@@ -1,4 +1,4 @@
-# get_next_line
+# Get Next Line
 
 <p align="center">
   <img src="https://github.com/FreddyBicandy50/FreddyBicandy50/blob/main/42_badges/get_next_linee.png" alt="get_next_line 42 project badge"/>
